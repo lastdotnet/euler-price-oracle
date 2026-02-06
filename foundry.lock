@@ -21,18 +21,18 @@
     "rev": "3d98ce3c0c7493537cfdcc3eb65440f72d780d04"
   },
   "lib/solady": {
-    "rev": "90db92ce173856605d24a554969f2c67cadbc7e9"
+    "rev": "0123b4c0509ce253e41e5abd2c75a64c06389640"
   },
   "lib/v3-core": {
     "branch": {
       "name": "0.8",
-      "rev": "d8b1c635c275d2a9450bd6a78f3fa2484fef73eb"
+      "rev": "6562c52e8f75f0c10f9deaf44861847585fc8129"
     }
   },
   "lib/v3-periphery": {
     "branch": {
       "name": "0.8",
-      "rev": "0682387198a24c7cd63566a2c58398533860a5d1"
+      "rev": "b325bb0905d922ae61fcc7df85ee802e8df5e96c"
     }
   }
 }
